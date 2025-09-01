@@ -7,4 +7,7 @@ A Computer Vision publication RAG assistant that answers questions about a singl
 - LangChain
 - FAISS for retrieval
 - HuggingFace sentence-transformers embeddings
-- LLaMA (via Ollama) for generation - Streamlit UI for interaction. 
+- LLaMA (via Ollama) for generation - Streamlit UI for interaction.
+
+SUDARSHAN MADDI 
+suddhumaddi@gmail.com

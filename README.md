@@ -3,7 +3,7 @@
 ![Working App](screenshot/app_screenshot.jpg)
 
 
-A Computer Vision publication RAG assistant that answers questions about a single Ready Tensor publication using: 
+A Computer Vision publication RAG assistant that answers questions about a Ready Tensor publication using: 
 - LangChain
 - FAISS for retrieval
 - HuggingFace sentence-transformers embeddings

@@ -1,6 +1,6 @@
 # ComputerVision-Rag-Publication-Assistant
 
-![Working App](screenshot/app_screenshot.png)
+![Working App](screenshot/app_screenshot.jpg)
 
 
 A Computer Vision publication RAG assistant that answers questions about a single Ready Tensor publication using: 
